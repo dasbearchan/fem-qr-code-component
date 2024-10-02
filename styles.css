@@ -1,0 +1,20 @@
+.attribution {
+    font-size: 11px;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.main-text {
+    font-size: 15px;
+    font-family: Outfit;
+}
+
+.title {
+    font-weight: bold
+}
+
+.subtitle {
+    /* for later */
+}
